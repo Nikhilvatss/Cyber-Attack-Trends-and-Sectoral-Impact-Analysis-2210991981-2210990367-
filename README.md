@@ -1,7 +1,7 @@
 Cyber Attack Trends and Sectoral Impact Analysis
 
-0367 – Harman Setia
-1980 – Nikhil Sharma
+2210990367 – Harman Setia
+2210991981 – Nikhil Sharma
 
 Cyber Attack Trends and Sectoral Impact Analysis
 
