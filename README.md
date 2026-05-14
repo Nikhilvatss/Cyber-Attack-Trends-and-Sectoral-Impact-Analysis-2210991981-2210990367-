@@ -1,2 +1,15 @@
-# Cyber-Attack-Trends-and-Sectoral-Impact-Analysis-2210991981-2210990367-
-Research project analyzing cyber-attack patterns across sectors (1999–2023) | Chitkara University | Roll: 1981,0367
+Cyber Attack Trends and Sectoral Impact Analysis
+
+0367 – Harman Setia
+1980 – Nikhil Sharma
+
+Cyber Attack Trends and Sectoral Impact Analysis
+
+Research
+
+Harman Setia (367) – harman367.be22@chitkara.edu.in
+Nikhil Sharma (1580) – nikhil1981.be22@chitkara.edu.in
+Mentor: Prof. Dr. S.B. Goyal – shyam.goyal@chitkara.edu.in
+
+
+Completed
